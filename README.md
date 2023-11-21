@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonas Montoya Reza</h1>
 <h3 align="center">A passionate Computer Engineer from Mexico</h3>
 
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fanimation-character-cinema-4d-gif-launch-particular-planet-rocket-space--297237644163574562%2F&psig=AOvVaw20n8a0yNKFUKVlrznE65IX&ust=1700673394710000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjO8oHM1YIDFQAAAAAdAAAAABAw" alt="jonasmreza-astronaut" width="400">
+<img align="right" src="https://i.pinimg.com/originals/67/b2/a9/67b2a9ba5e85822f237caae92111e938.gif" alt="jonasmreza-astronaut" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonasmrezaoficial&label=Profile%20views&color=0e75b6&style=flat" alt="jonasmrezaoficial" /> </p>
 
