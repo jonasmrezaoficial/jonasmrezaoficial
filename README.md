@@ -1,6 +1,5 @@
 ************************************************
-= Jonas Montoya Reza                           =
-= Computer Engineer                            =
+Jonas Montoya Reza / Computer Engineer                            
 ************************************************
 
 - 👋 Hi, I’m @jonasmrezaoficial
